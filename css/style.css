@@ -28,7 +28,7 @@ div{
 }
 
 .top-left {
-    background-color: grey;
+    background-color: lightgray;
     background-size: cover;
     background-position: center;
     flex: 1;
@@ -36,9 +36,12 @@ div{
 }
 
 .top-right{
-    background-color: lightgray;
+    background-color: grey;
     background-size: cover;
     background-position: center;
     flex: 1;
     padding: 1rem;
+}
+ul li{
+    list-style: none;
 }
