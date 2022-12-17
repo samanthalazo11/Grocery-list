@@ -44,16 +44,18 @@ div{
 }
 ul li{
     list-style: none;
-    pointer-events: fill;
-
-
+    background-color: rgb(43, 211, 43);
+    border-radius: 50px;
+    font-size: 24px;
 }
-
-ul li .grocery{
-
+ul .checkbox {
+    position: absolute;
+    cursor: pointer;
 }
-
-
+.checkbox{
+    right: 40px;
+    color: blue;
+}
 
 .meals{
     color: red;
