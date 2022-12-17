@@ -48,15 +48,13 @@ ul li{
     border-radius: 50px;
     font-size: 24px;
 }
-ul .checkbox {
-    position: absolute;
-    cursor: pointer;
-}
+
 .checkbox{
+    height: 20px;
     right: 40px;
     color: blue;
 }
 
-.meals{
+.meals {
     color: red;
 }
