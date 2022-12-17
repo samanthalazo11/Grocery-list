@@ -10,11 +10,11 @@ body {
     text-align: center;
 }
 h1 {
-    color: black;
-    background-color: #E3BC9A;
-    border: 10px solid #E3BC9A;
-    margin: 30px 0px 20px 10px ;
+    background-color: #d1c8c8;
+    border: 10px solid#d1c8c8;
+    margin: 20px 0px 5px 0px ;
     text-align: center;
+    width: 100%;
 }
 
 .split-screen {
@@ -24,11 +24,11 @@ h1 {
 div{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .top-left {
-    background-color: lightgray;
+    background-color: #ADE1AF;
     background-size: cover;
     background-position: center;
     flex: 1;
@@ -36,7 +36,7 @@ div{
 }
 
 .top-right{
-    background-color: grey;
+    background-color: #CDFFCC;
     background-size: cover;
     background-position: center;
     flex: 1;
@@ -44,4 +44,17 @@ div{
 }
 ul li{
     list-style: none;
+    pointer-events: fill;
+
+
+}
+
+ul li .grocery{
+
+}
+
+
+
+.meals{
+    color: red;
 }
