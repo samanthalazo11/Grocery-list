@@ -28,7 +28,7 @@ div{
 }
 
 .top-left {
-    background-color: #ADE1AF;
+    background-color: #f0f356d0;
     background-size: cover;
     background-position: center;
     flex: 1;
@@ -36,7 +36,7 @@ div{
 }
 
 .top-right{
-    background-color: #CDFFCC;
+    background-color: #f4fc6291;
     background-size: cover;
     background-position: center;
     flex: 1;
@@ -44,16 +44,36 @@ div{
 }
 ul li{
     list-style: none;
-    background-color: rgb(43, 211, 43);
+    background-color: rgb(180, 180, 180);
     border-radius: 50px;
     font-size: 24px;
+    margin: 10px 0;
+    padding: 5px;
+
 }
 
-.checkbox{
-    height: 20px;
-    right: 40px;
-    color: blue;
+ul .fa-check, .fa-ban{
+    position: absolute;
+    cursor: pointer;
 }
+
+ul .fa-check{
+    right: 70px;
+    color: green;
+
+}
+
+ul .fa-ban{
+    right: 40px;
+    color: red;
+}
+
+ul .checked{
+ background: lightgreen;
+ text-decoration: line-through;
+ transition: .3s;
+}
+
 
 .meals {
     color: red;
