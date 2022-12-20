@@ -121,9 +121,6 @@ ul .checked{
     border-top: 7px solid green;
 }
 
-.caret-rotate {
-    transform: rotate(180deg);
-}
 
 .menu {
     padding: 5px 7px;
