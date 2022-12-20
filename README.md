@@ -1,4 +1,5 @@
 # Grocery-list
 HTML
 CSS
-JavaScript 
+JavaScript
+Jquery
