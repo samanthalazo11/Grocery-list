@@ -6,8 +6,7 @@ The grocery list is to help keep organize and make your grocery shopping as quic
 - CSS
 - JavaScript
 - Jquery
-- API Mealdp
-- Bootstrap Font
+
 
 # Screenshot
 <img width="1262" alt="Screen Shot 2022-12-19 at 9 39 14 PM" src="https://user-images.githubusercontent.com/97905547/208569172-f4af332d-9cf7-4556-be6e-aafea398af71.png">
