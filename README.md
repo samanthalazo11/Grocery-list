@@ -15,8 +15,7 @@ The grocery list is to help keep organize and make your grocery shopping as quic
 
 # Getting Started
 
-Click here
-
+https://samanthalazo11.github.io/Grocery-list/ 
 
 
 
