@@ -6,6 +6,8 @@ The grocery list is to help keep organize and make your grocery shopping as quic
 - CSS
 - JavaScript
 - Jquery
+- Api Mealdp 
+- Bootstrap font 
 
 
 # Screenshot
